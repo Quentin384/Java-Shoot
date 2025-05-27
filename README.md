@@ -90,7 +90,13 @@ Bonne découverte et amusez-vous bien avec ce jeu de tir ! 🎮
 Ajoutez ici des captures d’écran de l’application pour illustrer l’interface ou la trajectoire du projectile.  
 Cela aide à visualiser le jeu et à comprendre son fonctionnement rapidement.
 
-![Capture écran TARGET](./docu/shooting-game.png)  
+![Capture écran TARGET](./docu/main-view.png)  
 *Vue principale du jeu*
+
+![Capture écran TARGET](./docu/win-view.png)  
+*Vue de l'écran de reussite*
+
+![Capture écran TARGET](./docu/loosing-view.png)  
+*Vue de l'écran game-over*
 
 ---
