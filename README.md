@@ -82,3 +82,15 @@ Les contributions sont les bienvenues !
 
 Pour toute question ou suggestion, n’hésitez pas à me contacter via GitHub.  
 Bonne découverte et amusez-vous bien avec ce jeu de tir ! 🎮
+
+---
+
+## 📸 Capture
+
+Ajoutez ici des captures d’écran de l’application pour illustrer l’interface ou la trajectoire du projectile.  
+Cela aide à visualiser le jeu et à comprendre son fonctionnement rapidement.
+
+![Capture écran Snake](./docu/shooting-game.png)  
+*Vue principale du jeu*
+
+---
