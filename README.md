@@ -87,7 +87,7 @@ Bonne découverte et amusez-vous bien avec ce jeu de tir ! 🎮
 
 ## 📸 Capture
 
-Ajoutez ici des captures d’écran de l’application pour illustrer l’interface ou la trajectoire du projectile.  
+Vous trouverez ici des captures d’écran de l’application pour illustrer l’interface ou la trajectoire du projectile.  
 Cela aide à visualiser le jeu et à comprendre son fonctionnement rapidement.
 
 ![Capture écran TARGET](./docu/main-view.png)  
